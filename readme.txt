@@ -3,3 +3,4 @@ Add some messages.
 OK, it is a fine Saturday.
 Creating a new branch is quick and simple.
 add merge option test.
+modify readme.
